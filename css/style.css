@@ -1,0 +1,72 @@
+/*Reset*/
+*{
+	margin:0;
+	padding:0;
+}
+img{
+	border:none;
+}
+input{
+	
+	border:none;
+}
+ul{
+    list-style: none;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+}
+input,select,option{
+	outline:0;
+	border:0;
+}
+a{
+    text-decoration: none;
+}
+
+/*HTML5*/
+header, article, nav, footer, section{
+   display:block;
+}
+
+/*General*/
+body{
+	font: 14px 'PT Sans', sans-serif;
+	min-width: 1000px; 
+}
+#name{
+	position: absolute;
+	left: 42%;
+	top: 15px;
+	font-size: 18px;
+}
+#name a{
+	color: rgb(134, 134, 134);
+	text-decoration: underline;
+}
+#name a:hover{
+	text-decoration: none;
+	color:#222;
+}
+.info{
+	width: 80%;
+	margin: 60px auto 20px;
+	background: rgb(221, 241, 252);
+
+}
+.info p{
+	padding: 10px;
+	font-size: 16px;
+	border-left: 10px solid rgb(149, 193, 223);
+}
+#copy{
+	background: rgb(231, 231, 231);
+	text-align: center;
+	margin-top: 50px;
+}
+#copy p{
+	padding:20px;
+}
+#copy p a{
+	color:red;
+}
