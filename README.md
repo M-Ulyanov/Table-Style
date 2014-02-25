@@ -53,11 +53,13 @@ Table-Style
 Все методы кроссбраузерны и избавляются от написания лишнего css, особенно при необходимости выбора чет/нечет. элементов, рамок(встроенный first-child) и т.д	
 	
 ### Пример вызова плагина
+```
 $('#table').tablestyles({
 	reset : 'yes',
 	theme : 'GreyGreen-Simple',
 	tableBorder : '5px solid #A5CE51',
 });
+```
 
 Здесь для таблицы с ID table мы укажем значение параметра reset, установим тему GreyGreen-Simple и зададим значение для параметра tableBorder 
  
