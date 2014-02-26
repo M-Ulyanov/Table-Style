@@ -69,4 +69,4 @@ $('#table').tablestyles({
 
 ##Пример работы
 
-Можно посмотреть <a href="http://example.web-ulyanov.ru/frontend/table-style">Здесь</a>
+Можно посмотреть <a href="http://example.web-ulyanov.ru/frontend/Table-style">Здесь</a>
